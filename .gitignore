@@ -1,0 +1,31 @@
+# C
+*.o
+*.obj
+*.exe
+*.out
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.a
+*.bin
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+tags
+[._]*.un~
+
+# VsCode
+.vscode/*
+.history/
+*.vsix
+.history
+.ionide
